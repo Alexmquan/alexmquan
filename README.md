@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Quan</h1>
-<h3 align="center">I am a Full-stack Software Developer from Idhao</h3>
+<h3 align="center">I am a Full-stack Software Developer from Idaho</h3>
 
 
 - 🔭 I’m currently working on [Keepr](https://keepr-aq.onrender.com/)
