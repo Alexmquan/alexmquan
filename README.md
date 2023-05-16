@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Quan</h1>
-<h3 align="center">I'm a passonate full-stack software developer from Idaho!</h3>
+<h3 align="center">I am a qualified and professional full-stack software developer offering broad-based experience and hands-on skills in core IT processes. Adept at promoting positive work environments and enhancing overall organizational performance. I am eager to learn and committed to providing exceptional user experiences by delivering high-quality services with dedication and enthusiasm.</h3>
 
 
 - 🔭 I’m currently working on [Keepr](https://keepr-aq.onrender.com/)
