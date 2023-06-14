@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full-stack Software Developer from Idaho!</h3>
 
 
-- 🔭 I’m currently working on a [Calculator App]
+- 🔭 I’m currently working on a **Calculator App**
 
 - 🌱 I’m currently learning **React & Next.js**
 
