@@ -2,9 +2,9 @@
 <h3 align="center">I am a Full-stack Software Developer from Idaho!</h3>
 
 
-- 🔭 I’m currently working on [Keepr](https://keepr-aq.onrender.com/)
+- 🔭 I’m currently working on a [Calculator App]
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Next.js**
 
 - 👨‍💻 All of my projects are available at [github.com/Alexmquan](https://github.com/Alexmquan)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alexmquan93@gmail.com**
 
-- ⚡ Fun fact **I've been to 22 countries!**
+- ⚡ Fun fact **I've been to 21 countries!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
